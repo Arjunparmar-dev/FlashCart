@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260691247922",
+    "project_id": "flash-cart-ec2ed",
+    "storage_bucket": "flash-cart-ec2ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260691247922:android:0b8059ea6e42abf8fd8d2b",
+        "android_client_info": {
+          "package_name": "com.internshala.flash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsdbYkDRpAuHr7z74cR0f6CZxqUjD17HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
