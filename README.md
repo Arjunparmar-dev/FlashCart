@@ -79,4 +79,4 @@ git clone https://github.com/arjunparmar-dev/flashcart.git
 
 The project makes heavy use of custom drawables (located in `app/src/main/res/drawable/`) to keep the UI engaging. This includes category icons (`fruits.png`, `munchies.png`), specific products (`banana.png`, `pepsi.png`), and UI states (`error.png`, `loading.png`, `placeholder.png`).
 
-*Developed with ❤️ as part of an Internshala training program / independent development.*
+*Developed with ❤️ as part of an Internshala training program *
